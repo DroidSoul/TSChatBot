@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TSChatBot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendbtn">send</string>
+
+    <string-array name="welcome_tips">
+        <item>您好,有什么可以为您服务的？</item>
+        <item>其实我不是机器人</item>
+        <item>大侠好</item>
+        <item>我可以带你装逼带你飞</item>
+        <item>像我这样屌的还有六个</item>
+    </string-array>
+
+
+</resources>
